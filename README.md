@@ -15,4 +15,4 @@ model.
 ## Defining Characteristics
 
 Uniquely identifiable repository artifacts and structures, that would suggest that users of a given repository are
-employing some form of GitFlow based development strategy.
+employing some form of GitHub Flow based development strategy.
